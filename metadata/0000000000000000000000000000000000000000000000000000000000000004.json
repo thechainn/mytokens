@@ -4,6 +4,6 @@
 	"image": "https://raw.githubusercontent.com/thechainn/mytokens/main/myimages/newimg.png",
 	"properties": {
 		"Value": "10",
-    "Power": "100"
+    		"Power": "100"
 	}
 }
