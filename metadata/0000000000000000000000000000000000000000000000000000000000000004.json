@@ -1,0 +1,9 @@
+{
+	"name":"Two guys",
+	"description":"One sad guy and one happy guy",
+	"image": "https://raw.githubusercontent.com/thechainn/mytokens/main/myimages/newimg.png",
+	"properties": {
+		"value":"10",
+		"power":"100"
+	}
+}
