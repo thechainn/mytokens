@@ -1,0 +1,10 @@
+{
+	"name":"The Big S V2",
+	"description":"A second pretty sweet big S.",
+	"image": "https://raw.githubusercontent.com/thechainn/mytokens/main/myimages/0000000000000000000000000000000000000000000000000000000000000006.png",
+	"properties": {
+		"size":"1080x1350",
+		"power":"150",
+		"ability":"Super"
+	}
+}
