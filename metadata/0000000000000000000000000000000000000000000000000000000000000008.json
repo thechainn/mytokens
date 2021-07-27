@@ -1,0 +1,10 @@
+{
+	"name":"Happy Face",
+	"description":"A happy face",
+	"image": "https://raw.githubusercontent.com/thechainn/mytokens/main/myimages/happyface.png",
+	"properties": {
+		"value":"10",
+		"power":"100",
+		"size":"320x168"
+	}
+}
