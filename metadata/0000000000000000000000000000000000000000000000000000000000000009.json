@@ -1,0 +1,10 @@
+{
+	"name":"Fun lines",
+	"description":"Wow - amazing",
+	"image": "https://raw.githubusercontent.com/thechainn/mytokens/main/myimages/swirls.png",
+	"properties": {
+		"value":"10",
+		"power":"100",
+		"size":"320x400"
+	}
+}
